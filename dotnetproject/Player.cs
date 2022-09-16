@@ -30,7 +30,7 @@ namespace PhaseEndProject
         public void Add(Player player)
         {
             oneDayTeam.Add(player);
-            //Console.WriteLine("{0},  {1},   {2} ", oneDayTeam[0].PlayerId, oneDayTeam[0].PlayerName, oneDayTeam[0].PlayerAge);
+            //Console.WriteLine("{0},  {1},   {2} ", oneDayTeam[0].PlayerId, oneDayTeam[0].PlayerName,oneDayTeam[0].PlayerAge);
         }
         public void Remove(int playerId)
         {
